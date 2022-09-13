@@ -1,0 +1,8 @@
+﻿  UnitConverter.cpp
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(16,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(25,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(34,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(43,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(70,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.h(79,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\SemesterProjectLabUnitConverter\UnitConverter.cpp(7): fatal error C1075: '{': no matching token found

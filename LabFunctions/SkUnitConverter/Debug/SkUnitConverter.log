@@ -1,0 +1,9 @@
+﻿  SkUnitConverter.cpp
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(16,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(21,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(26,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(31,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(46,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.h(51,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\SkUnitConverter.cpp(10,81): warning C4101: 'quit': unreferenced local variable
+  SkUnitConverter.vcxproj -> C:\Users\sanja\Documents\C++\LabFunctions\SkUnitConverter\Debug\SkUnitConverter.exe
